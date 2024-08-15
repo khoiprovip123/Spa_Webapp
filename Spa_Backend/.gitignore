@@ -1,0 +1,12 @@
+.vs/
+Spa.Api/bin/
+Spa.Api/obj/
+Spa.Application/bin/
+Spa.Application/obj/
+Spa.Domain/.vs
+Spa.Domain/bin/
+Spa.Domain/obj/
+Spa.Infrastructure/bin/
+Spa.Infrastructure/obj/ 
+Spa.Domain/.vs/ 
+/Spa.Api/Properties/PublishProfiles
